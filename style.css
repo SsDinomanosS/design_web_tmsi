@@ -1,0 +1,20 @@
+
+h1{ 
+    color : rgb(95, 20, 95);
+    font-size: 36px;
+    text-align: center;
+}
+div#imagem, a{
+    text-align: center
+}
+h3{
+    color: rgb white;
+    font-size: 18px
+}
+body{
+    background-image: url(Imagens/download.jfif);
+    }
+p, ol, ul, table{
+    color: white; 
+    font-weight: bold;    
+}
