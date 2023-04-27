@@ -1,20 +1,44 @@
-
 h1{ 
-    color : rgb(95, 20, 95);
-    font-size: 36px;
+    color : #b43db4;
+    font-size: 72px;
     text-align: center;
 }
+
 div#imagem, a{
     text-align: center
 }
+
 h3{
+    color: #b43db4;
+    font-size: 60px
+} 
+
+h4{
     color: rgb white;
-    font-size: 18px
+    font-size: 36px
 }
+
+h5{
+    color: rgb white;
+    font-size: 25px
+}
+
 body{
-    background-image: url(Imagens/download.jfif);
-    }
-p, ol, ul, table{
+    background-image: url(Imagens/espaço.jpg);
+}
+
+p, ol, ul{
     color: white; 
-    font-weight: bold;    
+    font-weight: bold; 
+    font-size: 36px;   
+}
+
+table{
+    color: white;
+    font-size: 36px
+}
+
+h6, p2{
+    color: #b43db4;  
+    font-size: 36px;   
 }
